@@ -1,6 +1,8 @@
-# inven
+# Invemtory Management
 
-A new Flutter application.
+Flutter application build to manage inventories of grocery stores.
+
+package : com.example.inven
 
 ## Getting Started
 
